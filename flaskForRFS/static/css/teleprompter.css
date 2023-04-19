@@ -1,0 +1,18 @@
+body {
+  
+    background-color: black;
+    color: white;
+    text-align: Center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+.teleprompter_window {
+  overflow: visible;
+  overflow-wrap: break-word;
+  border: 5px solid;
+  width: 1500px;
+  font-size: 32px;
+  white-space: pre-wrap;
+}
+  

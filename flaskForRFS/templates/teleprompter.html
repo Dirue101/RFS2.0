@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <link rel="stylesheet" href="{{ url_for('static', filename= 'css/teleprompter.css') }}">
+            
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>            
+            <script type="text/javascript" src="{{ url_for('static', filename='js/teleprompter.js') }}"></script>
+            
+        </head>
+
+<body>
+   <div class="teleprompter_window">
+    
+        {{script1}}
+    
+   </div>
+    </body>
+
+
+</html>
