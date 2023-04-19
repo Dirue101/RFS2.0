@@ -14,7 +14,7 @@ Backup destination in backupcleanup
 
 several paths in formatScript
 
-I will work on making this available to change in an options folder soon.
+I will work on making this available to change in an options file soon.
 after that, assembleFight should automatically construct pages, and read them aloud
 
 
